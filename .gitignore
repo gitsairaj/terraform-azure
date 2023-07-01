@@ -1,3 +1,5 @@
-terraform.tfstate.backup
-terraform.tfstate
+/d/Learnings/Terraform/Terraform-Azure/code/terraform.tfstate.backup
+/d/Learnings/Terraform/Terraform-Azure/code/terraform.tfstate
+#terraform.tfstate.backup
+#terraform.tfstate
 
